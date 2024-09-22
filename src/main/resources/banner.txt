@@ -1,0 +1,15 @@
+#################################################
+##                                               ##
+##    RRRRR     AAAA    H   H  U   U  L          ##
+##    R   R    A    A   H   H  U   U  L    'S    ##
+##    RRRR    AAAAAAA   HHHHH  U   U  L          ##
+##    R=R     A       A H   H  U   U  L          ##
+##    R  RR A         A H   H   UUU   LLLLL      ##
+##                                               ##
+##  PPP   RRRRR   OOO  JJJJJ  EEEE  CCCCC TTTTT  ##
+##  P P   R   R  O   O   J    E     C        T   ##
+##  PPP   RRRR   O   O   J    EEEE  C        T   ##
+##  P     R=R    O   O   J    E     C        T   ##
+##  P     R   R   OOO    J    EEEE  CCCCC    T   ##
+##                                               ##
+#################################################
